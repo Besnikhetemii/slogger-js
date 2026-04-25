@@ -1,12 +1,12 @@
 {
   "name": "slogger-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightweight vanilla JavaScript logger with colors, timestamps, grouping, and pretty printing.",
-  "main": "logger.min.js",
-  "browser": "logger.min.js",
+  "main": "slogger.min.js",
+  "browser": "slogger.min.js",
   "files": [
-    "logger.min.js",
-    "logger.js",
+    "slogger.min.js",
+    "slogger.js",
     "README.md"
 ],
   "keywords": [
